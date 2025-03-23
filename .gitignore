@@ -1,0 +1,6 @@
+*.png
+.ipynb_checkpoints
+.DS_Store
+.pyc
+.graphdef
+
