@@ -1,6 +1,7 @@
 *.png
 .ipynb_checkpoints
 .DS_Store
-.pyc
-.graphdef
+*.pyc
+*.graphdef
+*.onnx
 
